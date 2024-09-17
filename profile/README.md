@@ -2,11 +2,11 @@
     <img src="../assets/logo.svg" width="60%"/>
 </p>
 
-<center>
+<p align="center">
     <em>
         Asociación de estudiantes <b>LIMA</b> de la Universidad Autónoma de Madrid (UAM).
     </em>
-</center>
+</p>
 
 ---
 
