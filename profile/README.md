@@ -4,7 +4,7 @@
 
 <p align="center">
     <em>
-        Asociación de estudiantes dentro de la Universidad Autónoma de Madrid (UAM).
+        Una asociación de estudiantes de la Universidad Autónoma de Madrid (UAM).
     </em>
 </p>
 
