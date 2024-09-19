@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../assets/logo.svg" width="60%"/>
+    <img src="https://lima-uam.github.io/assets/logo.svg" width="60%"/>
 </p>
 
 <p align="center">
