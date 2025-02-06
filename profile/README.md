@@ -18,4 +18,4 @@ Puedes encontrarnos en la [Escuela Politécnica Superior](https://www.uam.es/EPS
 ## 🇬🇧 About Us
 
 Hello there 👋! We are a group of students from the [Universidad Autónoma de Madrid](https://www.uam.es/uam/en/inicio) focused on promoting the use of free and open-source technologies in the higher education and academic world.
-You can find us in the [Escuela Politécnica Superior](https://www.uam.es/EPS/Home.htm?language=en), or connect with us directly though our email.
+You can find us at [Escuela Politécnica Superior](https://www.uam.es/EPS/Home.htm?language=en), or connect with us directly through our email.
